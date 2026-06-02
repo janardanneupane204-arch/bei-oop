@@ -21,6 +21,10 @@
 
  [[./op/output4.png]]
 
+ [[./labw/task4.cpp ][task5:]]
+
+ [[./op/output5.png]]
+
 
 ** Conclusion:
 From this lab, we are able to conclude that Constructors and Destructors makes *making/initializing* class and *freeing* the memory of the *class* easier for the programmmers as we observe in our programs.
