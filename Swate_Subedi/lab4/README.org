@@ -1,7 +1,7 @@
 * LAB 3: Constructors and Destructors C++
 
 ** Discussion:
- From this lab, we are able to learn the uses of constructors and destructors in C++.
+ From this lab, we are able to learn the uses of static and const keywords in C++.
 
  Here is the output of the lab code:
 
@@ -27,4 +27,4 @@
 
 
 ** Conclusion:
-From this lab, we are able to conclude that Constructors and Destructors makes *making/initializing* class and *freeing* the memory of the *class* easier for the programmmers as we observe in our programs.
+From this lab, we were able to conclude that static and const keywords can be used to retain certain values within two or more classes but only static values can be modified during runtime
